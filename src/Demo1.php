@@ -6,7 +6,7 @@ namespace whtcgh;
 
 class Demo1 extends \think\Service
 {
-  public function __construct()) {}
+  public function __construct() {}
   /**
    * 注册服务
    *
