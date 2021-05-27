@@ -1,0 +1,14 @@
+{
+    "name": "whtcgh/tp6_demo1",
+    "description": "tp6_demo1",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wt",
+            "email": "2359092648@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
